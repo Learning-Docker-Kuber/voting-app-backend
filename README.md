@@ -13,9 +13,9 @@
 
 File - New - Project From Version Control... 클릭
 
-깃허브 주소 입력하고(backend) clone
+깃허브 주소 입력하고(backend) develop 브랜치 clone
 
-### 인텔리제이 git clone
+### 인텔리제이 프로젝트 
 
 File - Open... 클릭
 
