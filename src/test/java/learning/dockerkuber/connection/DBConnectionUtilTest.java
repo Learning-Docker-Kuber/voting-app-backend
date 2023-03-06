@@ -10,7 +10,7 @@ import java.sql.Connection;
 class DBConnectionUtilTest {
 
     @Test
-    void connection(){
+    void connection() throws Exception {
         Connection connection = DBConnectionUtil.getConnection();
         Assertions.assertThat(connection).isNotNull();
     }
