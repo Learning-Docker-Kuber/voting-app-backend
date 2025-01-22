@@ -1,4 +1,4 @@
-# API Server
+# Front Server
 ### 구성
 - Spring Boot : 3.4.1
 - Java : 21.x.x
