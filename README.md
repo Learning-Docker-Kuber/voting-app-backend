@@ -29,3 +29,5 @@
 2. 문서 작성 및 저장
 3. 작성된 문서 결재자 지정 후 결재 문서로 저장
 4. 결재 진행
+### 설명
+https://chiseled-rook-f8d.notion.site/18339fabda35800fa306f51f4c50bf97
