@@ -4,18 +4,15 @@
 - Java : 21.x.x
 - Build : Gradle
 - IDE : IntelliJ
-- Dababase
-  - MariaDB
-  - MongoDB : 로그인 시도 이력 저장
-- DB 쿼리 작성
-  - JDBC
-  - JPA
-  - QueryDSL
-- 로그인 처리
-  - Spring Security
-  - JWT
-- API 명세서 작성
-  - Swagger
+- html 템플릿 : Thymeleaf
+---
+### 폴더 설명
+- 개발 html : /resources/templates/html
+- 개발 js : /resources/static/assets/js/controls
+- 퍼블리셔 제공 js : /resources/static/assets/js (controls 폴더 제외)
+- 결재 문서함 : */doc/approval
+- 문서 작성함 : */doc/created
+- 문서 저장소 : */doc/storage
 ---
 ### A회사 상황
 - A회사의 협력업체들은 작업할 때 매일, 매주 또는 필요할 떄 작성해야 하는 문서들이 있는데 양식 통일이 안되어 있음(한글, 엑셀 그림판 등)
