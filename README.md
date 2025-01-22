@@ -10,3 +10,8 @@
   - JDBC
   - JPA
   - QueryDSL
+- 로그인 처리
+  - Spring Security
+  - JWT
+- API 명세서 작성
+  - Swagger
